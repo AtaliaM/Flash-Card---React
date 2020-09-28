@@ -1,0 +1,16 @@
+.header-container {
+    height: 50px;
+    display: flex;
+    background: lightblue;
+}
+
+
+button {
+    margin: 10px 10px;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
