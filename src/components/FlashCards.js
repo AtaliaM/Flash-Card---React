@@ -123,7 +123,7 @@ class FlashCards extends React.Component {
             )
         }
         else {
-            return <></>
+            return <div>No cards to display</div>
         }
     }
 }
