@@ -1,5 +1,5 @@
 import React from 'react';
-import img from './flashcards.png';
+import img from '../pictures/flashcards.png';
 
 
 class HomePage extends React.Component {

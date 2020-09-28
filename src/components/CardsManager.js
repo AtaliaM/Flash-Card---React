@@ -66,7 +66,11 @@ class CardsManager extends React.Component {
         }
         else {
             return (
-                <div>Loading...</div>
+              <div>
+                <div>Looking for cards to display...</div>
+                <NewCardInput addCard={this.createCard}/>
+              </div>
+
             )
         }
     }
